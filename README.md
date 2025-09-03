@@ -30,3 +30,7 @@ This project is a front-end practice to understand layouts and positioning.
 1. Clone the repository:  
    ```bash
    git clone https://github.com/Vanshi-j23/Sidebar-Menu.git
+
+
+---
+Made with ❤️ by Vanshika Jangra (@Vanshi-j23)
